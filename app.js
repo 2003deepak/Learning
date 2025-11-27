@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
   res.send("Hello World by me in main by Deepak Codex!");
 });
 
-app.get("/", (req, res) => {
+app.get("/hello", (req, res) => {
   res.send("Hello World by me in main by Deepak Codex!");
 });
 
