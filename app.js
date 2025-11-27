@@ -8,7 +8,7 @@ app.use(express.json());
 
 // Sample route
 app.get("/", (req, res) => {
-  res.send("Hello World by me in main by Deepak Codex!");
+  res.send("Hello World by me in main by Deepak Codex! nand now merging data");
 });
 
 // Start the server
